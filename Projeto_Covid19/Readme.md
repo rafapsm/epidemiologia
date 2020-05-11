@@ -1,6 +1,6 @@
-# ´Dados epidemiológicos - COVID19´
+# _Dados epidemiológicos - COVID19_
 
-## Sobre os Relatórios de tendências de mobilidade Apple
+## _Sobre os Relatórios de tendências de mobilidade Apple_
 
 Os relatórios são publicados diariamente e refletem os pedidos de direções na app Mapas da Apple. A privacidade é um principais valores da empresa, pelo que a app Mapas não associa os dados ao ID Apple e a Apple não mantém um histórico das localizações visitadas.
 
