@@ -35,7 +35,7 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 
 <br/>
 
-## **Comparação entre o abanço da COVID19 em Portugal e a mobilidade dos portugueses nos diversos espaços**
+## **Comparação entre o avanço da COVID19 em Portugal e a mobilidade dos portugueses nos diversos espaços**
 
 <img src="notebooks/charts/maps/portugal_covid19.gif" width="420" align="left">
 
