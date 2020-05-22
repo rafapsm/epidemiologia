@@ -15,6 +15,12 @@ Com os dados recolhidos dos relatórios da Apple, que se encontram [aqui](https:
 <br />
 <br />
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## **Sobre os Relatórios Google da mobilidade da comunidade**
 
