@@ -8,12 +8,14 @@ Os dados são gerados pela contagem do número de pedidos de direções efetuado
 
 Com os dados recolhidos dos relatórios da Apple, que se encontram [aqui](https://github.com/rafapsm/epidemiologia/tree/master/Projeto_Covid19/apple_reports), foi possível a realização deste gráfico que nos mostra os dados de mobilidade dos cidadãos portugueses, tanto a pé como de carro, **antes e depois da declaração do estado de emergência** .
 
-<img src="notebooks/apple_graphs/TT.png" width="420" align="right">
-<img src="notebooks/apple_graphs/mobilidade.png" width="420" align="left">
+<p><img src="notebooks/apple_graphs/TT.png" width="420" align="right">
+<img src="notebooks/apple_graphs/mobilidade.png" width="420" align="left"></p>
 
 
 <br />
 <br />
+<br/>
+
 ## **Sobre os Relatórios Google da mobilidade da comunidade**
 
 Estes Relatórios de mobilidade da comunidade têm como objetivo fornecer estatísticas sobre o que mudou na resposta às políticas que visam combater a COVID-19. Os relatórios registam as tendências de movimento ao longo do tempo por localização geográfica, em várias categorias de locais como retalho e lazer, mercearias e farmácias, parques, estações de transportes públicos, locais de trabalho e residências.
