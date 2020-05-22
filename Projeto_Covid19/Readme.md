@@ -34,8 +34,9 @@ Os relatórios podem ser encontrados [aqui](https://github.com/rafapsm/epidemiol
 Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafapsm/epidemiologia/tree/master/Projeto_Covid19/summary_reports) para facilitar a manipulação de dados.
 
 <br/>
-<br/>
 
 ## **Comparação entre o abanço da COVID19 em Portugal e a mobilidade dos portugueses nos diversos espaços**
+
+![](notebooks/charts/maps/portugal_covid19.gif)
 
 
