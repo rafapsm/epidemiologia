@@ -39,7 +39,9 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 
 <p>
 <img src="notebooks/charts/maps/portugal_covid19.gif" width="420" align="left" alt>
-<em>image_caption</em>
+</p>
+<p>
+    <em>image_caption</em>
 </p>
 
 
