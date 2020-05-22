@@ -12,7 +12,8 @@ Com os dados recolhidos dos relatórios da Apple, que se encontram [aqui](https:
 <img src="notebooks/apple_graphs/mobilidade.png" width="420" align="left">
 
 
-
+<br />
+<br />
 ## **Sobre os Relatórios Google da mobilidade da comunidade**
 
 Estes Relatórios de mobilidade da comunidade têm como objetivo fornecer estatísticas sobre o que mudou na resposta às políticas que visam combater a COVID-19. Os relatórios registam as tendências de movimento ao longo do tempo por localização geográfica, em várias categorias de locais como retalho e lazer, mercearias e farmácias, parques, estações de transportes públicos, locais de trabalho e residências.
