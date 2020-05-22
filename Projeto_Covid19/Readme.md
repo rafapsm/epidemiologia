@@ -36,9 +36,10 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 <br/>
 
 ## **Comparação entre o avanço da COVID19 em Portugal e a mobilidade dos portugueses nos diversos espaços**
-
+<figure>
 <img src="notebooks/charts/maps/portugal_covid19.gif" width="420" align="left">
-
+<figcaption>Covid19 by date [Jupyter Notebook](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/MapaPT_interativo.ipynb)</figcaption>
+</figure>
 
 
 
