@@ -8,6 +8,6 @@ Os dados são gerados pela contagem do número de pedidos de direções efetuado
 
 Com os dados recolhidos dos relatórios da Apple, que se encontram [aqui](https://github.com/rafapsm/epidemiologia/tree/master/Projeto_Covid19/apple_reports), foi possível a realização deste gráfico que nos mostra os dados de mobilidade dos cidadãos portugueses, tanto a pé como de carro, **antes e depois da declaração do estado de emergência** .
 
-<img src="notebooks/apple_graphs/TT.png" width="200">
+<img src="notebooks/apple_graphs/TT.png" width="400" align="right">
 
-![](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/apple_graphs/TT.png = 100x20)
+
