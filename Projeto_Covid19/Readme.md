@@ -43,10 +43,9 @@ htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
 </p>
 
 
-{% capture includeGuts %}
-{% include notebooks/mobilidade/mobilidade_pt.html %} 
-{% endcapture %}
-{{ includeGuts | replace: '    ', ''}}
+<script src= 
+"notebooks/mobilidade/mobilidade_pt.html"> 
+    </script> 
 
 
 
