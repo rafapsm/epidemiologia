@@ -39,7 +39,7 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 
 <p>
 <img src="notebooks/charts/maps/portugal_covid19.gif" width="420" align="left" alt>
-<img src="notebooks/mobilidade/mobilidade_pt.html">
+htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
 </p>
 
 
