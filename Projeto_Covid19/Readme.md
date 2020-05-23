@@ -37,8 +37,6 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 
 ## **Comparação entre o avanço da COVID19 em Portugal e a mobilidade dos portugueses nos diversos espaços**
 
-#### Retail:
-Tendências de mobilidade para locais como restaurantes, cafés, shoppings, parques temáticos, museus, bibliotecas e cinemas. 
 
 <p align="center">
 <img src="notebooks/charts/maps/portugal_covid19.gif" width="450" alt>
@@ -46,6 +44,17 @@ Tendências de mobilidade para locais como restaurantes, cafés, shoppings, parq
 
 ![Recordit GIF](http://g.recordit.co/7OmmwiYjbJ.gif)
 ##### Faz o dowload deste gráfico [aqui](notebooks/mobilidade/mobilidade_pt.html)
+
+#### Retail:
+Tendências de mobilidade para locais como restaurantes, cafés, shoppings, parques temáticos, museus, bibliotecas e cinemas. 
+#### Grocery and Pharmacy:
+Tendências de mobilidade para locais como supermercados, mercados de agricultores(feiras), drogarias e farmácias.
+#### Parks:
+Tendências de mobilidade para locais como parques, praias públicas, marinas, jardins públicos e marginais.
+#### Workplaces:
+Tendências de mobilidade para locais de trabalho.
+#### Residential:
+Tendências de mobilidade para locais de residência.
 
 
 
