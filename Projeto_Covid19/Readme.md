@@ -42,6 +42,7 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
 </p>
 
+<html src="notebooks/mobilidade/mobilidade_pt.hmtl>
 
 <script src= 
 "notebooks/mobilidade/mobilidade_pt.html"> 
