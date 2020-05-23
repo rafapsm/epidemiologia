@@ -39,30 +39,12 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 
 <p>
 <img src="notebooks/charts/maps/portugal_covid19.gif" width="420" align="left" alt>
-htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
+
 </p>
 
-<html src="notebooks/mobilidade/mobilidade_pt.hmtl>
-
-<script src= 
-"notebooks/mobilidade/mobilidade_pt.html"> 
-    </script> 
-
-
-
-```{r, echo=FALSE}
 htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
-```
 
-```{r generate-external-report, include=FALSE}
-rmarkdown::render('embedded_file.Rmd')
-```
 
-External `HTML` file can be included in an `<iframe>` element:
-
-```{r, echo=FALSE}
-htmltools::tags$iframe(title = "My embedded document", src = "notebooks/mobilidade/mobilidade_pt.html")
-```
 
 
 
