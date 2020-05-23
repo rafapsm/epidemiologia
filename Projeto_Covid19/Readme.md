@@ -42,7 +42,7 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 </p>
 
 ![Recordit GIF](http://g.recordit.co/7OmmwiYjbJ.gif)
-<p align="center> "Faz o dowload deste gráfico [aqui](notebooks/mobilidade/mobilidade_pt.html) </p>
+##### Faz o dowload deste gráfico [aqui](notebooks/mobilidade/mobilidade_pt.html)
 
 
 
