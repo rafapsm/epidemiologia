@@ -43,12 +43,10 @@ htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
 </p>
 
 
-{% include JB/setup %}
-
-Read [Jekyll Quick Start](notebooks/mobilidade/mobilidade_pt.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
+{% capture includeGuts %}
+{% include notebooks/mobilidade/mobilidade_pt.html %} 
+{% endcapture %}
+{{ includeGuts | replace: '    ', ''}}
 
 
 
