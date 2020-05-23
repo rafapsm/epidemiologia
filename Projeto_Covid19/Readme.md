@@ -47,7 +47,9 @@ title:"Mobilidade"
 output:html_document
 runtime:shiny
 ---
-
+```
+{r echo = FALSE}
+selectInput("notebooks/mobilidade/mobilidade_pt.html")
 
 
 htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
