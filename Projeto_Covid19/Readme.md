@@ -42,6 +42,16 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
 </p>
 
+
+{% include JB/setup %}
+
+Read [Jekyll Quick Start](notebooks/mobilidade/mobilidade_pt.html)
+
+Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+
+
+
+
 ```{r, echo=FALSE}
 htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
 ```
