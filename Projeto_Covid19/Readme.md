@@ -42,6 +42,16 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
 </p>
 
+```{r generate-external-report, include=FALSE}
+rmarkdown::render('embedded_file.Rmd')
+```
+
+External `HTML` file can be included in an `<iframe>` element:
+
+```{r, echo=FALSE}
+htmltools::tags$iframe(title = "My embedded document", src = "notebooks/mobilidade/mobilidade_pt.html")
+```
+
 
 
 
