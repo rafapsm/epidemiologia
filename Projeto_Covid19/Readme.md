@@ -42,6 +42,10 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
 </p>
 
+```{r, echo=FALSE}
+htmltools::includeHTML("notebooks/mobilidade/mobilidade_pt.html")
+```
+
 ```{r generate-external-report, include=FALSE}
 rmarkdown::render('embedded_file.Rmd')
 ```
