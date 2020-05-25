@@ -135,8 +135,10 @@ O gráfico abaixo permite inferir acerca dos principais sintomas da Covid-19 em 
 </p>
 
 <p align="center">
+
 O gráfico seguinte compara a evolução do número de casos confirmados, internados, internados nas Unidades de Cuidados Intensivos e de recuperados em Portugal.
-<img src="notebooks/stats/comparacao.png" width="425">
+
+<img src="notebooks/stats/comparacao.png" width="500">
 </p>
 
 <p align="center">
