@@ -60,7 +60,7 @@ Tendências de mobilidade para locais de residência.
 
 
 <img src="notebooks/charts/maps_madeira/madeira_covid19.gif" width="250" alt align="left">
-<img src="notebooks/charts/maps_acores/acores_covid19.gif" width="450" alt align="right">
+<img src="notebooks/charts/maps_acores/acores_covid19.gif" width="500" alt align="right">
 
 
 
