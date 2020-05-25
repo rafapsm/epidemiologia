@@ -35,7 +35,7 @@ Os dados foram extraídos dos pdfs e gerou-se [datasets](https://github.com/rafa
 
 <br/>
 
-## **Comparação entre o avanço da COVID19 em Portugal e a mobilidade dos portugueses nos diversos espaços**
+## **Avanço da COVID19, por distritos, em Portugal e a mobilidade dos portugueses nos diversos espaços**
 
 
 <p align="center">
@@ -56,7 +56,7 @@ Tendências de mobilidade para locais de trabalho.
 #### Residential:
 Tendências de mobilidade para locais de residência.
 
-## **Comparação entre o avanço da COVID19 nas Ilhas e a mobilidade dos portugueses nos diversos espaços**
+## **Avanço da COVID19 nas Ilhas e a mobilidade dos portugueses nos diversos espaços**
 
 
 <img src="notebooks/charts/maps_madeira/madeira_covid19.gif" width="250" alt align="left">
@@ -65,6 +65,18 @@ Tendências de mobilidade para locais de residência.
 ![Recordit GIF](http://g.recordit.co/mytfFAHBEs.gif)
 ##### Faz o dowload deste gráfico [aqui](notebooks/mobilidade/mobilidade_ilhas.html)
 
+## **Avanço da COVID19 a nível global em Portugal e a mobilidade dos portugueses nos diversos espaços**
+
+
+<img src="notebooks/mobilidade/comparacaoretail.png" width="50" align="left">
+
+<img src="notebooks/mobilidade/comparacaogrocery.png" width="50" align="right">
+
+<img src="notebooks/mobilidade/comparacaowork.png" width="50" align="right">
+<img src="notebooks/mobilidade/comparacaoresidential.png" width="50" align="right">
+<p align="center">
+<img src="notebooks/mobilidade/comparacaoparks.png" width="50" alt>
+</p>
 
 
 
