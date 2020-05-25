@@ -114,12 +114,17 @@ Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos di
 <br />
 <br />
 <br />
+                                                                                                                           
+<br />
+<br />
+<br />
+<br />
 
 ### **Mais estatísticas** 
 
 <p align="center">
 O seguinte gráfico expõe o número de casos confirmados e de mortes por Covid-19, por faixa etária e por género.
-<img src="notebooks/stats/obitos_confirmados.pngg" width="425">
+<img src="notebooks/stats/obitos_confirmados.png" width="425">
 </p>
 
 <p align="center">
