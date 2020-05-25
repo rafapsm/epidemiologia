@@ -99,7 +99,6 @@ Na mapa abaixo é possível observar a propagação do vírus desde o dia 24/03/
 
 Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos diversos espaços, e relacionou-se o mesmo com a evolução da Covid-19 em território nacional. Os dados mais relevantes encontram-se nas figuras seguintes, e os restantes podem ser encontrados no [notebook](notebooks/Stats.ipynb) que permitiu a realização dos gráficos.  
 
-
 <p>
 <img src="notebooks/mobilidade/comparacaoretail.png" width="425" align="left">
 <img src="notebooks/mobilidade/comparacaogrocery.png" width="425" align="right">
@@ -109,7 +108,6 @@ Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos di
 <img src="notebooks/mobilidade/comparacaowork.png" width="425" align="right">
 <img src="notebooks/mobilidade/comparacaoresidential.png" width="425" align="left">
 </p>
-
 
                                                                                                                            
 <br/>
@@ -129,7 +127,6 @@ Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos di
 <br/>
 
 #### **Comparação entre o número de casos confirmados e o número de óbitos diário**
-
 O gráfico abaixo compara a evolução de casos diários com o número de mortes registadas diariamente devido à Covid-19.
 
 <p align="center">
