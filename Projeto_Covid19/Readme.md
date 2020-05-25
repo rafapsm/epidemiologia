@@ -79,7 +79,7 @@ Tendências de mobilidade para locais de residência.
 </p>
 
 <p>
-<img src="notebooks/mobilidade/comparacaoparks.png" width="425" alt align="left>
+<img src="notebooks/mobilidade/comparacaoparks.png" width="425" alt align="left">
 [Notebook](notebooks/Stats.ipynb)                                                                         
 </p>
 
