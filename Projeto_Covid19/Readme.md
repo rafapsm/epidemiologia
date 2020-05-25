@@ -111,8 +111,7 @@ Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos di
 </p>
 
 
-                                                               
-                                                             
+                                                                                                                           
 <br/>
 <br/>
 <br/>
@@ -123,11 +122,15 @@ Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos di
 <br/>
 <br/>
 
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### **Comparação entre o número de casos confirmados e o número de óbitos diário**
 
 O gráfico abaixo compara a evolução de casos diários com o número de mortes registadas diariamente devido à Covid-19.
-
 
 <p align="center">
 <img src="notebooks/mobilidade/casosconfirmadosvsobitos.png" width="425">
