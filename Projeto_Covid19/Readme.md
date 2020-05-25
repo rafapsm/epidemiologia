@@ -84,6 +84,14 @@ Tendências de mobilidade para locais de residência.
 <p align="center>
 <img src="notebooks/mobilidade/comparacaoparks.png" width="425" alt >      
 </p>
+                                                               
+                                                               
+                                                               
+                                                               
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## **Comparação entre o número de casos confirmados e o número de óbitos diário**
 
