@@ -68,16 +68,18 @@ Tendências de mobilidade para locais de residência.
 ## **Avanço da COVID19 a nível global em Portugal e a mobilidade dos portugueses nos diversos espaços**
 
 
-<p><img src="notebooks/mobilidade/comparacaoretail.png" width="450" align="left">
+<p>
+<img src="notebooks/mobilidade/comparacaoretail.png" width="450" align="left">
+<img src="notebooks/mobilidade/comparacaogrocery.png" width="450" align="right">
+</p>
 
-<img src="notebooks/mobilidade/comparacaogrocery.png" width="450" align="right"></p>
-
-<img src="notebooks/mobilidade/comparacaowork.png" width="50" align="right">
-<img src="notebooks/mobilidade/comparacaoresidential.png" width="50" align="right">
-
+<p>
+<img src="notebooks/mobilidade/comparacaowork.png" width="250" align="right">
+<img src="notebooks/mobilidade/comparacaoresidential.png" width="250" align="left">
+</p>
 
 <p align="center">
-<img src="notebooks/mobilidade/comparacaoparks.png" width="50" alt>
+<img src="notebooks/mobilidade/comparacaoparks.png" width="250" alt>
 </p>
 
 
