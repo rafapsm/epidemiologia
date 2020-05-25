@@ -85,9 +85,7 @@ Tendências de mobilidade para locais de residência.
 <img src="notebooks/mobilidade/comparacaoparks.png" width="425" alt >      
 </p>
                                                                
-                                                               
-                                                               
-                                                               
+                                                             
 <br/>
 <br/>
 <br/>
