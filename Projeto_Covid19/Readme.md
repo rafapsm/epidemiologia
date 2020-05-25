@@ -112,12 +112,13 @@ Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos di
                                                                                                                            
 <br />
 <br />
+<br />
+<br />
 
 ### **Mais estatísticas** 
 
-O gráfico abaixo compara a evolução de casos diários com o número de mortes registadas diariamente devido à Covid-19.
-
 <p align="center">
+O gráfico abaixo compara a evolução de casos diários com o número de mortes registadas diariamente devido à Covid-19.
 <img src="notebooks/mobilidade/casosconfirmadosvsobitos.png" width="425">
 </p>
 
