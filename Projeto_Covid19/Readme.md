@@ -53,6 +53,18 @@ Nos gráficos abaixo é possível observar de que forma os cidadãos portugueses
 <br/>
 <br/>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ### **Mapas e estatísticas recolhidas dos dados Google** 
 
 Na mapa abaixo é possível observar a propagação do vírus desde o dia 24/03/2020 até ao dia 08/05/2020 em Portugal Continental e por distritos. É também possível visualizar um dos gráficos que mostra a evolução da mobilidade dos portugueses em espaços de retail, grocery and pharmacy, parks, workplaces e residential. 
