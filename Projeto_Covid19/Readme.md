@@ -85,8 +85,6 @@ Na mapa abaixo é possível observar a propagação do vírus desde o dia 24/03/
 
 🗂️ [Mapa Madeira Animado](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/MapaMadeira.ipynb)
 
-<br/>
-<br/>
 
 🗂️ [Mapa Açores Animado](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/MapaAcores.ipynb)
 
@@ -126,10 +124,9 @@ Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos di
 <br/>
 
 
-## **Comparação entre o número de casos confirmados e o número de óbitos diário**
+#### **Comparação entre o número de casos confirmados e o número de óbitos diário**
 
-
-  [Notebook](notebooks/Stats.ipynb)
+O gráfico abaixo compara a evolução de casos diários com o número de mortes registadas diariamente devido à Covid-19.
 
 
 <p align="center">
