@@ -62,6 +62,8 @@ Tendências de mobilidade para locais de residência.
 <img src="notebooks/charts/maps_madeira/madeira_covid19.gif" width="250" alt align="left">
 <img src="notebooks/charts/maps_acores/acores_covid19.gif" width="525" alt align="right">
 
+![Recordit GIF](http://g.recordit.co/mytfFAHBEs.gif)
+##### Faz o dowload deste gráfico [aqui](notebooks/mobilidade/mobilidade_ilhas.html)
 
 
 
