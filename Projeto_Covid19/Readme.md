@@ -67,7 +67,9 @@ Tendências de mobilidade para locais de residência.
 
 ## **Avanço da COVID19 a nível global em Portugal e a mobilidade dos portugueses nos diversos espaços**
 
-<ul>[Notebook](notebooks/Stats.ipynb)</ul>
+<ul> 
+  [Notebook](notebooks/Stats.ipynb)
+</ul>
 
 <p>
 <img src="notebooks/mobilidade/comparacaoretail.png" width="425" align="left">
@@ -85,7 +87,13 @@ Tendências de mobilidade para locais de residência.
 
 ## **Comparação entre o número de casos confirmados e o número de óbitos diário**
 
-<img src="notebooks/mobilidade/casosconfirmadosvsobitos.png" width="425" align="center">
+<ul> 
+  [Notebook](notebooks/Stats.ipynb)
+</ul>
+
+<p align="center">
+<img src="notebooks/mobilidade/casosconfirmadosvsobitos.png" width="425">
+</p>
 
 
 
