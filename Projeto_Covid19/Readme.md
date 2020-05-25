@@ -1,16 +1,20 @@
-**Dados epidemiológicos - COVID19**
+# **Dados epidemiológicos - COVID19**
 
-# **Motivação**
+## **Motivação**
 
-# **Datasets**
+Com o objetivo de estudar a propagação da Covid-19 em Portugal, desenvolveu-se um conjunto de notebooks que ajudam a entender o comportamento da população portuguesa face ao avanço da pandemia. 
 
-## **Sobre os Relatórios de tendências de mobilidade Apple**
+## **Datasets**
+
+### **Sobre os Relatórios de tendências de mobilidade Apple**
 
 Os relatórios são publicados diariamente e refletem os pedidos de direções na app Mapas da Apple. A privacidade é um principais valores da empresa, pelo que a app Mapas não associa os dados ao ID Apple e a Apple não mantém um histórico das localizações visitadas.
 
 Os dados são gerados pela contagem do número de pedidos de direções efetuados na app Mapas da Apple em determinados países/regiões, sub-regiões e cidades. Os dados que são enviados através dos dispositivos dos utilizadores para o serviço de Mapas são associados a identificadores aleatórios e rotativos, para que a Apple não tenha um perfil dos seus movimentos e das suas pesquisas. A disponibilidade dos dados num determinado país/região, sub-região ou cidade é baseada em vários fatores, incluindo limites mínimos de pedidos de direções efetuados por dia.
 
-## **Sobre os Relatórios Google da mobilidade da comunidade**
+Os relatórios da Apple podem ser encontrados [aqui](https://github.com/rafapsm/epidemiologia/tree/master/Projeto_Covid19/apple_reports)
+
+### **Sobre os Relatórios Google da mobilidade da comunidade**
 
 Estes Relatórios de mobilidade da comunidade têm como objetivo fornecer estatísticas sobre o que mudou na resposta às políticas que visam combater a COVID-19. Os relatórios registam as tendências de movimento ao longo do tempo por localização geográfica, em várias categorias de locais como retalho e lazer, mercearias e farmácias, parques, estações de transportes públicos, locais de trabalho e residências.
 Os relatórios podem ser encontrados [aqui](https://github.com/rafapsm/epidemiologia/tree/master/Projeto_Covid19/pdf_reports) ou no [site oficial](https://www.google.com/covid19/mobility/). 
@@ -27,16 +31,16 @@ Tendências de mobilidade para locais de trabalho.
 #### Residential:
 Tendências de mobilidade para locais de residência.
 
+## **Resultados**
 
-Com os dados recolhidos dos relatórios da Apple, que se encontram [aqui](https://github.com/rafapsm/epidemiologia/tree/master/Projeto_Covid19/apple_reports), foi possível a realização deste gráfico que nos mostra os dados de mobilidade dos cidadãos portugueses, tanto a pé como de carro, **antes e depois da declaração do estado de emergência** .
+### **Estatísticas recolhidas dos dados Apple** 
+
+Nos gráficos abaixo é possível observar de que forma os cidadãos portugueses se deslocaram, tanto a pé como de carro, **antes e depois da declaração do estado de emergência** .
 
 <p><img src="notebooks/apple_graphs/TT.png" width="420" align="right">
 <img src="notebooks/apple_graphs/mobilidade.png" width="420" align="left"></p>
 
 
-<br />
-<br />
-<br/>
 <br/>
 <br/>
 <br/>
@@ -49,12 +53,11 @@ Com os dados recolhidos dos relatórios da Apple, que se encontram [aqui](https:
 <br/>
 <br/>
 
+### **Mapas e estatísticas recolhidas dos dados Google** 
 
+Na mapa abaixo é possível observar a propagação do vírus desde o dia 24/03/2020 até ao dia 08/05/2020 em Portugal Continental e por distritos. É também possível visualizar um dos gráficos que mostra a evolução da mobilidade dos portugueses em espaços de retail, grocery and pharmacy, parks, workplaces e residential. 
 
-<br/>
-
-## **Avanço da COVID19, por distritos, em Portugal e a mobilidade dos portugueses nos diversos espaços**
-
+🗂️ [Mapa Portugal Continental Animado](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/MapaPT_interativo.ipynb)
 
 <p align="center">
 <img src="notebooks/charts/maps/portugal_covid19.gif" width="450" alt>
@@ -63,9 +66,11 @@ Com os dados recolhidos dos relatórios da Apple, que se encontram [aqui](https:
 ![Recordit GIF](http://g.recordit.co/7OmmwiYjbJ.gif)
 ##### Faz o dowload deste gráfico [aqui](notebooks/mobilidade/mobilidade_pt.html)
 
+<br/>
+<br/>
+<br/>
 
-
-## **Avanço da COVID19 nas Ilhas e a mobilidade dos portugueses nos diversos espaços**
+Na mapa abaixo é possível observar a propagação do vírus desde o dia 24/03/2020 até ao dia 08/05/2020 nos Açores e na Madeira. É também possível visualizar um dos gráficos que mostra a evolução da mobilidade dos portugueses nas ilhas, em espaços de retail, grocery and pharmacy, parks, workplaces e residential. 
 
 
 <img src="notebooks/charts/maps_madeira/madeira_covid19.gif" width="250" alt align="left">
@@ -73,6 +78,7 @@ Com os dados recolhidos dos relatórios da Apple, que se encontram [aqui](https:
 
 ![Recordit GIF](http://g.recordit.co/mytfFAHBEs.gif)
 ##### Faz o dowload deste gráfico [aqui](notebooks/mobilidade/mobilidade_ilhas.html)
+
 
 ## **Avanço da COVID19 a nível global em Portugal e a mobilidade dos portugueses nos diversos espaços**
 
