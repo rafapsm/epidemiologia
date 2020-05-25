@@ -110,28 +110,24 @@ Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos di
 </p>
 
                                                                                                                            
-<br/>
-<br/>
-<br/>
-<br/>
+<br />
+<br />
+<br />
+<br />
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-#### **Comparação entre o número de casos confirmados e o número de óbitos diário**
-O gráfico abaixo compara a evolução de casos diários com o número de mortes registadas diariamente devido à Covid-19.
+### **Mais estatísticas** 
 
 <p align="center">
+O seguinte gráfico expõe o número de casos confirmados e de mortes por Covid-19, por faixa etária e por género.
+<img src="notebooks/stats/obitos_confirmados.pngg" width="425">
+</p>
+
+<p align="center">
+O gráfico abaixo compara a evolução de casos diários com o número de mortes registadas devido à Covid-19.
 <img src="notebooks/mobilidade/casosconfirmadosvsobitos.png" width="425">
 </p>
+
+
 
 
 
