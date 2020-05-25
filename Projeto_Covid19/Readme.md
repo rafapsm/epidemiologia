@@ -59,11 +59,7 @@ Nos gráficos abaixo é possível observar de que forma os cidadãos portugueses
 <br/>
 <br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ### **Mapas e estatísticas recolhidas dos dados Google** 
 
