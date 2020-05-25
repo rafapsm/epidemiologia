@@ -81,10 +81,13 @@ Na mapa abaixo é possível observar a propagação do vírus desde o dia 24/03/
 Na mapa abaixo é possível observar a propagação do vírus desde o dia 24/03/2020 até ao dia 08/05/2020 nos Açores e na Madeira. É também possível visualizar um dos gráficos que mostra a evolução da mobilidade dos portugueses nas ilhas, em espaços de retail, grocery and pharmacy, parks, workplaces e residential. 
 
 <br/>
+
+
+🗂️ [Mapa Madeira Animado](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/MapaMadeira.ipynb)
+
 <br/>
 <br/>
 
-🗂️ [Mapa Madeira Animado](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/MapaMadeira.ipynb)
 🗂️ [Mapa Açores Animado](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/MapaAcores.ipynb)
 
 <img src="notebooks/charts/maps_madeira/madeira_covid19.gif" width="250" alt align="left">
@@ -94,7 +97,7 @@ Na mapa abaixo é possível observar a propagação do vírus desde o dia 24/03/
 ##### Faz o dowload deste gráfico [aqui](notebooks/mobilidade/mobilidade_ilhas.html)
 
 
-## **Avanço da COVID19 a nível global em Portugal e a mobilidade dos portugueses nos diversos espaços**
+#### **Avanço da COVID19 a nível global em Portugal e a mobilidade dos portugueses nos diversos espaços**
 
 Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos diversos espaços, e relacionou-se o mesmo com a evolução da Covid-19 em território nacional. Os dados mais relevantes encontram-se nas figuras seguintes, e os restantes podem ser encontrados no [notebook](notebooks/Stats.ipynb) que permitiu a realização dos gráficos.  
 
