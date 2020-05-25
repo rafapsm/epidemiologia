@@ -69,17 +69,17 @@ Tendências de mobilidade para locais de residência.
 
 
 <p>
-<img src="notebooks/mobilidade/comparacaoretail.png" width="430" align="left">
-<img src="notebooks/mobilidade/comparacaogrocery.png" width="430" align="right">
+<img src="notebooks/mobilidade/comparacaoretail.png" width="425" align="left">
+<img src="notebooks/mobilidade/comparacaogrocery.png" width="425" align="right">
 </p>
 
 <p>
-<img src="notebooks/mobilidade/comparacaowork.png" width="430" align="right">
-<img src="notebooks/mobilidade/comparacaoresidential.png" width="430" align="left">
+<img src="notebooks/mobilidade/comparacaowork.png" width="425" align="right">
+<img src="notebooks/mobilidade/comparacaoresidential.png" width="425" align="left">
 </p>
 
 <p align="center">
-<img src="notebooks/mobilidade/comparacaoparks.png" width="430" alt>
+<img src="notebooks/mobilidade/comparacaoparks.png" width="425" alt>
 </p>
 
 
