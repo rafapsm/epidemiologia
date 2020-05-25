@@ -79,6 +79,11 @@ Na mapa abaixo é possível observar a propagação do vírus desde o dia 24/03/
 <br/>
 
 Na mapa abaixo é possível observar a propagação do vírus desde o dia 24/03/2020 até ao dia 08/05/2020 nos Açores e na Madeira. É também possível visualizar um dos gráficos que mostra a evolução da mobilidade dos portugueses nas ilhas, em espaços de retail, grocery and pharmacy, parks, workplaces e residential. 
+
+<br/>
+<br/>
+<br/>
+
 🗂️ [Mapa Madeira Animado](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/MapaMadeira.ipynb)
 🗂️ [Mapa Açores Animado](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/MapaAcores.ipynb)
 
