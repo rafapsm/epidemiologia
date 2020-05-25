@@ -122,15 +122,29 @@ Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos di
 
 ### **Mais estatísticas** 
 
+🗂️ [Estatísticas](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/Stats.ipynb)
+
 <p align="center">
 O seguinte gráfico expõe o número de casos confirmados e de mortes por Covid-19, por faixa etária e por género.
 <img src="notebooks/stats/obitos_confirmados.png" width="425">
 </p>
 
 <p align="center">
-O gráfico abaixo compara a evolução de casos diários com o número de mortes registadas devido à Covid-19.
+O gráfico abaixo permite inferir acerca dos principais sintomas da Covid-19 em Portugal.
+<img src="notebooks/stats/sintomas.png" width="425">
+</p>
+
+<p align="center">
+O gráfico seguinte compara a evolução do número de casos confirmados, internados, internados nas Unidades de Cuidados Intensivos e de recuperados em Portugal.
+<img src="notebooks/mobilidade/comparacao.png" width="425">
+</p>
+
+<p align="center">
+Por fim, o próximo gráfico compara a evolução de casos diários com o número de mortes registadas devido à Covid-19.
 <img src="notebooks/mobilidade/casosconfirmadosvsobitos.png" width="425">
 </p>
+
+
 
 
 
