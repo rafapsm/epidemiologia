@@ -59,7 +59,7 @@ Tendências de mobilidade para locais de residência.
 ## **Comparação entre o avanço da COVID19 nas Ilhas e a mobilidade dos portugueses nos diversos espaços**
 
 
-<img src="notebooks/charts/maps_madeira/madeira_covid19.gif" width="300" alt align="left">
+<img src="notebooks/charts/maps_madeira/madeira_covid19.gif" width="270" alt align="left">
 <img src="notebooks/charts/maps_acores/acores_covid19.gif" width="450" alt align="right">
 
 
