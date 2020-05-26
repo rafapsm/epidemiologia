@@ -135,6 +135,9 @@ Realizou-se um estudo do comportamento dos portugueses a nível nacional, nos di
 <br />
 <br />
 
+<br />
+<br />
+
 ### **Mais estatísticas** 
 
 🗂️ [Estatísticas](https://github.com/rafapsm/epidemiologia/blob/master/Projeto_Covid19/notebooks/Stats.ipynb)
